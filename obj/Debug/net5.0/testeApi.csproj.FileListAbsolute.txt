@@ -31,3 +31,8 @@ C:\.Net\testeApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 C:\.Net\testeApi\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\.Net\testeApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\.Net\testeApi\obj\Debug\net5.0\testeApi.csproj.CopyComplete
+C:\.Net\testeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\.Net\testeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.Net\testeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\.Net\testeApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\.Net\testeApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
