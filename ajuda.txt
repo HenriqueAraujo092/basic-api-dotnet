@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=SQzeOv5Y94A&t=820s&ab_channel=CentrodeInova%C3%A7%C3%A3oVincIT-UNICIV
+
+*** AJUDA ***
+
+- Veriificar se dotnet esta instalado
+$ dotnet --version
+
+- Criar projeto
+$ dornet new web -o [NOME-DO-PROJETO]
+
+- Adicionar pacote de dotnet Mvc
+$ dotnet add package Microsoft.AspNetCore.Mvc --version 2.2.0 
+
+21:37
